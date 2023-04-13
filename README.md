@@ -1,14 +1,3 @@
-alert!
-alert!
-alert!
-If you are unable to see the website please in the Url add a 
-(root) to the end of it. I wasnt able to figure out the problem on how to fix it. The only solution I could find was to type in this full link
-
-https://bs3102798.github.io/Password-Creator/root/
-
-Thank you for reading this.
-
-alert !
 
 # PassWord Creator
 
